@@ -1,5 +1,5 @@
-disable-create-missing-people
-=============================
+ALFRESCO disable-create-missing-people
+======================================
 
 ALFRESCO · Disable createMissingPeople property on PersonService.
 
