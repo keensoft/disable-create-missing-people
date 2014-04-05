@@ -24,4 +24,4 @@ You can include this Alfresco repo AMP in any Alfresco 4.X CE / EE in order to s
 
 Note
 ====
-On Alfresco 4.2.d CE and Alfresco 4.2 EE there is a new called "create.missing.people" which allows to set the desired behaviour without impacting any other functionality.
+On Alfresco 4.2.d CE and Alfresco 4.2 EE there is a new called "create.missing.people" property which allows to set the desired behaviour without impacting any other functionality.
